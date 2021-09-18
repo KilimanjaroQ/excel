@@ -1,0 +1,15 @@
+Webpack (imports/exports)
+  Babel
+  Scss
+  Eslint
+  2 Modes
+    - Dev
+    - Prod
+
+Git
+  Production
+    2.0.0
+    0 ------
+  Development
+    2.0.2
+    1 --------
