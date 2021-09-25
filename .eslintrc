@@ -13,7 +13,7 @@
     "require-jsdoc": "off",
     "no-tabs": "off",
     "indent": "off",
-    "eol-last": "off"
+    "operator-linebreak": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
