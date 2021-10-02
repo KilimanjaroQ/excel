@@ -29,7 +29,7 @@ export function resizeHandler($root, event) {
 		$resizer.css({
 			opacity: '',
 			bottom: '',
-			right: '',
+			right: ''
 		})
 		if (type === 'col') {
 			$parent.css({width: value + 'px'})
